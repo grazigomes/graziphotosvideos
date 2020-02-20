@@ -9,6 +9,7 @@
 	margin:auto;
 			}
 	h1 {
+	font-size: 40px;
 	text-align: center;
 	color: #D32F2F; 
 	}
@@ -16,7 +17,11 @@
 	color: #880E4F;  
 	}
 	nav {
+	font-size: 40px;
 	text-align: center;
+	}
+	body {
+	background: #FFCCCC;
 	}
 	</style>
 </head>
