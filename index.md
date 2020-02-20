@@ -37,7 +37,6 @@
    <a href="assignment3.pdf"> Assignment 3</a> &nbsp;
       </nav>
 		
-<a href="
     </main>
 </body>
 </html>
