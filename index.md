@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">	
@@ -31,7 +30,7 @@
  
 
     <main>
-        <h1>IMM Portfolio</h1>
+        
 		<h2>Grazielle Gomes</h2>
 		
 		<nav>
